@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: red;
 }
 
 .header div {
@@ -42,7 +42,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: whitesmoke;
     text-decoration: none;
 }
 
@@ -78,27 +78,26 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: red;
 }
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: white;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color:white;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color:white;
 }
 
 .benefit-lead h3 {
@@ -176,16 +175,19 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    background-color: red;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    background-color: red;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    background-color:red;
 }
 
 .footer {
