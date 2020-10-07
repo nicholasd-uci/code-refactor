@@ -14,7 +14,10 @@ To impress clients, you should always go the extra mile and improve their codeba
 ## User Story
 
 ```
-Revamped site that is eye catching and easier to navigate. I wanted to bring a simple yet better innovated style to the language for easier rendering and editing capability for feature developer who will maintain the site on a day-to-day base.
+- Revamped site that is eye catching and easier to navigate. 
+- Simple yet innovated and better style to the language 
+- For easier rendering and editing capability for feature developer's 
+- site day-to-day capability is far superior.
 ```
 
 ## About
@@ -22,7 +25,9 @@ Revamped site that is eye catching and easier to navigate. I wanted to bring a s
 
 ```
 Horiseon:
-This was a great company that I was able to help out. We were able to get a handful of issue's and problems that they executives wanted fixed. We were able to provide that help and much more.
+This was a great company that I was able to help out. 
+We were able to solve a handful of issue's and problems.
+Executives wanted it fixed and for it to be easily changed as well. 
 
 ```
 
@@ -32,7 +37,7 @@ This was a great company that I was able to help out. We were able to get a hand
 ## LINKS
 
 - [Code Refactor Link](https://nicholasd-uci.github.io/code-refactor/)
-- [Github Rep Link](https://github.com/nicholasd-uci/code-refactor)
+- [Github Repo Link](https://github.com/nicholasd-uci/code-refactor)
 
 - - -
 © 2020 NPRD, Nicholas Paul Ruiz Dallas
