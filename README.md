@@ -38,6 +38,7 @@ Executives wanted it fixed and for it to be easily changed as well.
 
 - [Code Refactor Link](https://nicholasd-uci.github.io/code-refactor/)
 - [Github Repo Link](https://github.com/nicholasd-uci/code-refactor)
+- [Nicholas Dallas's GitHub](https://github.com/nicholasd-uci)
 
 - - -
 © 2020 NPRD, Nicholas Paul Ruiz Dallas
